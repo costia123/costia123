@@ -1,4 +1,9 @@
-### GitHub's Stats :
+
+![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.languages.svg)
+![Metrics](/metrics.plugin.calendar.full.svg)
+
+<!-- ### GitHub's Stats :
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costia123&show_icons=true&theme=synthwave)
 
@@ -17,7 +22,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="80px">
 <img src="https://e7.pngegg.com/pngimages/558/1010/png-clipart-linux-operating-systems-logo-whatsapp-logo-text-computer.png" height="80px">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="80px">
-<!--
 **costia123/costia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-readme-stats.vercel.app/api?username=costia123
 Here are some ideas to get you started:
