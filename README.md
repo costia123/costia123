@@ -9,11 +9,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costia123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## About me :
+About me :
 - 💼 ・ Costia, 21 yo
 - 🏴‍☠️ ・ Learn Pentesting and Programming
 - 📗 ・ write notes and articles about cryptocurencie 
-- 🛠️ ・ Work on Olympe discord bot and website
+- 🛠️ ・ Work on Olympe
 
 ### Languages :
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="80px">
